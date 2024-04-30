@@ -7,7 +7,7 @@ Functions possessed by this datapack:
 2. Players will drop heads after death.
 3. You can control the weather, just enter the command:"/trigger ssc" to open the controller.
 4. Reduced the risk of server lag caused by endermen moving blocks. Endermen will only transport carved pumpkins, pumpkins, and watermelons.
-5. Removing bats.
+5. Removed bats.
 6. This datapack is beta, more content is in the works...
 
 # 中文
