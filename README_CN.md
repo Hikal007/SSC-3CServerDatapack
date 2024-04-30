@@ -1,5 +1,7 @@
 [English](https://github.com/Hikal007/SSC-3CServerDatapack) | **中文**
 
+# SSC-3CServerDatapack
+# 中文
 适用于 SeaSole Community (SSC) Minecraft 服务器的 Minecraft 数据包。
 
 该数据包具有的功能：
