@@ -9,3 +9,4 @@ tellraw @a [{"text":""}]
 
 # Controler
 function ssc:controler/core
+function ssc:weather/core
